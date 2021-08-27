@@ -1,0 +1,19 @@
+/*
+IMPORTANT!
+These designs/webpages are not responsive due to the short time frame given to make the webpages
+  - GameTime With Aryan (Aryan Srivastava, 8B)
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+:root {
+  --primary-dark-blue: #202b5a;
+}
+
+body,
+h1,
+h2,
+p {
+  font-family: "Poppins";
+  padding: 0;
+  margin: 0;
+}
